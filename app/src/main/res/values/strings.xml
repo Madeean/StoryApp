@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">StoryApp2</string>
+  <string name="email_tidak_valid">Email tidak valid</string>
+  <string name="password_harus_memiliki_minimal_8_karakter">Password harus memiliki minimal 8 karakter</string>
+  <string name="isi_dulu">Isi Dulu</string>
+  <string name="masukkan_email_anda">Masukkan email Anda</string>
+  <string name="masukkan_nama_anda">Masukkan nama Anda</string>
+  <string name="masukkan_password_anda">Masukkan password Anda</string>
+  <string name="berhasil_menambahkan_story">Berhasil menambahkan story</string>
+  <string name="gagal_menambahkan_story">Gagal menambahkan story</string>
+  <string name="masukkan_description_terlebih_dahulu">Masukkan description terlebih dahulu</string>
+  <string name="masukkan_gambar_terlebih_dahulu">Masukkan gambar terlebih dahulu</string>
+  <string name="permission_request_granted">Permission request granted</string>
+  <string name="permission_request_denied">Permission request denied</string>
+  <string name="sudah_punya_akun">Sudah punya akun?</string>
+  <string name="login">Login</string>
+  <string name="register">Register</string>
+  <string name="detail_story">Detail Story</string>
+  <string name="story_app">Story App</string>
+  <string name="belum_punya_akun">Belum punya akun?</string>
+  <string name="berhasil_membuat_akun_silahkan_login">Berhasil membuat akun, silahkan login</string>
+  <string name="tambah_story">Tambah Story</string>
+  <string name="camera">Camera</string>
+  <string name="gallery">Gallery</string>
+  <string name="description">Description</string>
+</resources>
